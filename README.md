@@ -4,7 +4,7 @@
 This project analyzes Brazilian e-commerce sales data to uncover business insights such as top-performing products, sales trends by state, and customer purchase behavior.
 
 ## 📊 Tools Used
-- Python (Pandas, Matplotlib)
+- Python (Pandas)
 - Excel (Data cleaning)
 - Tableau (Dashboard)
 
