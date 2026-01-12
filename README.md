@@ -17,9 +17,10 @@ This project analyzes Brazilian e-commerce sales data to uncover business insigh
 [🔗 View on Tableau Public](https://public.tableau.com/app/profile/itika.dey/viz/BrazilRetailInsightsSalesCustomersRevenuePulse/Dashboard1)
 
 ## 🖼️ Dashboard Preview
-![Dashboard Screenshot](Dashboard 1.png)
+![Dashboard Screenshot](<Dashboard 1.png>)
 ## [Download Full Dataset]
 (https://drive.google.com/drive/folders/1qYGZPr8qGsO77ryUv9zCNBfYq_7ilEmT?usp=sharing)
 ## Download The Master Table
 (https://drive.google.com/file/d/1NlfBlhTmd2QMBouv_OHLJGKwaba2Byf0/view?usp=sharing)
+
 
